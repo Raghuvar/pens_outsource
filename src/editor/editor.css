@@ -1,0 +1,9 @@
+.label-input {
+    flex-direction: row;
+    display: flex;
+    justify-content: center
+}
+
+label {
+    margin-top: 10px
+}
